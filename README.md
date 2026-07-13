@@ -283,9 +283,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pranavgujar/pranavgujar/output/snake.svg" alt="Contribution Snake Animation" />
-</p>
-
+  <img src="https://pranav-gujar.github.io/pranav-gujar/snake.svg" alt="Contribution Snake Animation" /></p>
 <br/>
 
 <p align="center">
