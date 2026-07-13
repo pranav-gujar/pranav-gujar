@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Pranav+Gujar;Mr.+Infinite+%E2%99%BE%EF%B8%8F;Software+Engineer+%7C+Founder+%7C+Builder" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=2800&pause=800&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi.+I'm+Pranav+Gujar.;Mr.+Infinite+%E2%99%BE%EF%B8%8F;Engineer+%7C+Founder+%7C+Builder" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=2800&pause=800&color=1D4ED8&center=true&vCenter=true&width=800&lines=Hi.+I'm+Pranav+Gujar.;Mr.+Infinite+%E2%99%BE%EF%B8%8F;Engineer+%7C+Founder+%7C+Builder" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=2800&pause=800&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi.+I'm+Pranav+Gujar.;Mr.+Infinite+%E2%99%BE%EF%B8%8F;Engineer+%7C+Founder+%7C+Builder" alt="Header" />
+  </picture>
 </p>
 
 <p align="center">
@@ -9,291 +13,454 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/pranavgujar">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/pranav-gujar">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/pranavgujar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/pranav-gujar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://pranavgujar.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  <a href="https://pranav-gujar.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=0D1117" alt="Portfolio"/>
   </a>
   &nbsp;
   <a href="mailto:pranav@pgtglobal.net">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
   </a>
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranavgujar&label=Profile+Visitors&color=3B82F6&style=flat-square" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=pranav-gujar&label=EXPLORERS&color=3B82F6&style=flat-square&labelColor=0D1117" alt="Visitor Counter" />
 </p>
 
 <br/>
-
----
-
 <br/>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png"><img align="center" width="35" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="About" /></picture> &nbsp;About
-
 <div align="center">
-
-**Software Engineer · Founder & CEO · Open Source Contributor · Author · Speaker**
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranav-gujar/pranav-gujar/main/assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranav-gujar/pranav-gujar/main/assets/divider-light.svg">
+    <img src="https://raw.githubusercontent.com/pranav-gujar/pranav-gujar/main/assets/divider-dark.svg" alt="divider" width="100%" />
+  </picture>
 </div>
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center" width="440">
-      <br/>
-      <p>I engineer products that sit at the intersection of <b>ambitious vision</b> and <b>flawless execution</b>. As the Founder & CEO of PGT Global Network, I lead a movement that has already impacted over <b>10,000+ students</b> — transforming how communities learn, build, and grow together.</p>
-      <p>My engineering philosophy is rooted in <b>craftsmanship</b>. Every line of code I write serves a purpose: to create systems that scale, interfaces that delight, and open-source tools that empower other builders. I don't just ship features — I ship <b>experiences</b>.</p>
-      <p>When I'm not architecting production-grade platforms, I'm on stage speaking about technology, mentoring contributors, or writing about the future of software. I believe the best technology doesn't just work — it <b>inspires</b>.</p>
-      <br/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png"><img align="center" width="35" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Projects" /></picture> &nbsp;Featured Builds
-
-<br/>
-
-<div align="center">
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PGT%20Global%20Network-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PGT%20Global%20Network-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black"><img src="https://img.shields.io/badge/PGT%20Global%20Network-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black" alt="PGT Global Network"/></picture> | Production-grade platform powering the official digital presence of PGT Global Network. Engineered for scale, performance, and seamless user experience. | `Next.js` `React` `Node.js` `PostgreSQL` `Tailwind CSS` |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Infinity%20Universe-0A0A0A?style=for-the-badge&logo=next.js&logoColor=white"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Infinity%20Universe-FFFFFF?style=for-the-badge&logo=next.js&logoColor=black"><img src="https://img.shields.io/badge/Infinity%20Universe-FFFFFF?style=for-the-badge&logo=next.js&logoColor=black" alt="Infinity Universe"/></picture> | My personal brand and portfolio platform — a digital universe showcasing my work, philosophy, and vision. Built as a statement of creative engineering. | `Next.js` `TypeScript` `MongoDB` `Framer Motion` `Tailwind CSS` |
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png"><img align="center" width="35" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tech Stack" /></picture> &nbsp;Technology Arsenal
-
-<br/>
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br/>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br/>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br/>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br/>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="SQL" />
-      <br/>SQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br/>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br/>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br/>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br/>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br/>CSS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br/>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br/>Express
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br/>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br/>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br/>Git
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png"><img align="center" width="35" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Source" /></picture> &nbsp;Open Source
+## &#x3C;The Architect /&#x3E;
 
 <div align="center">
   <br/>
-  <p>Open source is the backbone of modern innovation, and I'm proud to be an active contributor to this movement. I believe that <b>great software is built in public</b> — where transparency, collaboration, and shared ownership drive progress faster than any single team ever could.</p>
-  <p>I contribute to projects that solve real problems, mentor new contributors, and maintain libraries that thousands of developers rely on. For me, open source isn't a checkbox — it's a <b>responsibility</b> to give back to the community that taught me everything.</p>
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png"><img align="center" width="35" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Achievements" /></picture> &nbsp;Achievements & Recognition
-
-<br/>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/NMMS-National%20Scholarship%20Holder-3B82F6?style=for-the-badge&labelColor=1E293B" alt="NMMS Scholarship"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Hackathons-Multiple%20Winner-10B981?style=for-the-badge&labelColor=1E293B" alt="Hackathon Winner"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Founder-%26%20CEO-EC4899?style=for-the-badge&labelColor=1E293B" alt="Founder & CEO"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Open%20Source-Active%20Contributor-F59E0B?style=for-the-badge&labelColor=1E293B" alt="Open Source Contributor"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Author-%26%20Speaker-8B5CF6?style=for-the-badge&labelColor=1E293B" alt="Author & Speaker"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/NPTEL-Silver%20Elite-EF4444?style=for-the-badge&labelColor=1E293B" alt="NPTEL Silver Elite"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Impact-10%2C000%2B%20Students%20Reached-06B6D4?style=for-the-badge&logo=target&logoColor=white&labelColor=1E293B" alt="Impact"/>
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png"><img align="center" width="35" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Stats" /></picture> &nbsp;GitHub Analytics
-
-<br/>
-
-<div align="center">
-
-| | | |
-|:---:|:---:|:---:|
-| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranavgujar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&rank_icon=github" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavgujar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" /> | <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavgujar&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" /> |
-
+  <table>
+    <tr>
+      <td>
+        <p>
+          I don't just write code. I architect <b>digital worlds</b> where ambition meets precision, and vision translates into impact.
+        </p>
+        <p>
+          As the <b>Founder & CEO</b> of PGT Global Network, I've built a movement that has reached <b>10,000+ students</b> — proving that technology, when wielded with purpose, doesn't just solve problems. It <b>transforms communities</b>.
+        </p>
+        <p>
+          My craft spans the full stack — from database architecture to pixel-perfect interfaces. Every product I build carries a signature: <b>scalable systems, elegant abstractions, and relentless attention to detail</b>.
+        </p>
+        <p>
+          I believe the engineer of tomorrow is part builder, part founder, part storyteller. That's who I strive to be. Not just someone who ships features — but someone who <b>shapes the future, one commit at a time</b>.
+        </p>
+      </td>
+    </tr>
+  </table>
+  <br/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranavgujar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" alt="GitHub Trophies"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranav-gujar/pranav-gujar/main/assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranav-gujar/pranav-gujar/main/assets/divider-light.svg">
+    <img src="https://raw.githubusercontent.com/pranav-gujar/pranav-gujar/main/assets/divider-dark.svg" alt="divider" width="100%" />
+  </picture>
 </div>
 
 <br/>
 
----
+## &#x3C;The Foundry /&#x3E;
+
+<div align="center">
+  <br/>
+  <p><i>Products engineered from first principles. Built to last. Designed to inspire.</i></p>
+  <br/>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PGT_Global_Network-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E293B">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PGT_Global_Network-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=F1F5F9">
+          <img src="https://img.shields.io/badge/PGT_Global_Network-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E293B" alt="PGT Global Network">
+        </picture>
+        <br/><br/>
+        <p align="left">
+          The official production-grade platform powering the PGT Global Network ecosystem. Engineered for scalability, performance, and seamless experience across thousands of users.
+        </p>
+        <p align="left">
+          <sub><code>Next.js</code> &nbsp; <code>React</code> &nbsp; <code>Node.js</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>Tailwind CSS</code></sub>
+        </p>
+        <br/>
+      </td>
+      <td align="center" width="50%">
+        <br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Infinity_Universe-0A0A0A?style=for-the-badge&logo=next.js&logoColor=white&labelColor=1E293B">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Infinity_Universe-FFFFFF?style=for-the-badge&logo=next.js&logoColor=black&labelColor=F1F5F9">
+          <img src="https://img.shields.io/badge/Infinity_Universe-0A0A0A?style=for-the-badge&logo=next.js&logoColor=white&labelColor=1E293B" alt="Infinity Universe">
+        </picture>
+        <br/><br/>
+        <p align="left">
+          My personal brand universe — a digital cosmos where engineering meets storytelling. A portfolio that doesn't just display work; it <b>immerses</b> visitors in my philosophy.
+        </p>
+        <p align="left">
+          <sub><code>Next.js</code> &nbsp; <code>TypeScript</code> &nbsp; <code>MongoDB</code> &nbsp; <code>Framer Motion</code> &nbsp; <code>Tailwind CSS</code></sub>
+        </p>
+        <br/>
+      </td>
+    </tr>
+  </table>
+  <br/>
+</div>
 
 <br/>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png"><img align="center" width="35" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Connect" /></picture> &nbsp;Let's Build Together
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranav-gujar/pranav-gujar/main/assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranav-gujar/pranav-gujar/main/assets/divider-light.svg">
+    <img src="https://raw.githubusercontent.com/pranav-gujar/pranav-gujar/main/assets/divider-dark.svg" alt="divider" width="100%" />
+  </picture>
+</div>
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center" width="160">
-      <a href="https://github.com/pranavgujar">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/><br/>
-        <sub>@pranavgujar</sub>
-      </a>
-    </td>
-    <td align="center" width="160">
-      <a href="https://linkedin.com/in/pranavgujar">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/><br/>
-        <sub>pranavgujar</sub>
-      </a>
-    </td>
-    <td align="center" width="160">
-      <a href="https://pranavgujar.com">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/><br/>
-        <sub>pranavgujar.com</sub>
-      </a>
-    </td>
-    <td align="center" width="160">
-      <a href="mailto:pranav@pgtglobal.net">
-        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/><br/>
-        <sub>pranav@pgtglobal.net</sub>
-      </a>
-    </td>
-  </tr>
-</table>
+## &#x3C;The Arsenal /&#x3E;
+
+<div align="center">
+  <br/>
+  <p><i>Tools, languages, and frameworks I wield to turn vision into reality.</i></p>
+  <br/>
+  <table>
+    <tr>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=java" width="42" height="42" alt="Java" /><br/>
+        <sub>Java</sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=js" width="42" height="42" alt="JavaScript" /><br/>
+        <sub>JavaScript</sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=ts" width="42" height="42" alt="TypeScript" /><br/>
+        <sub>TypeScript</sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=python" width="42" height="42" alt="Python" /><br/>
+        <sub>Python</sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=postgres" width="42" height="42" alt="PostgreSQL" /><br/>
+        <sub>PostgreSQL</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=react" width="42" height="42" alt="React" /><br/>
+        <sub>React</sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="42" height="42" alt="Next.js" /><br/>
+        <sub>Next.js</sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="42" height="42" alt="Tailwind" /><br/>
+        <sub>Tailwind</sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="42" height="42" alt="Node.js" /><br/>
+        <sub>Node.js</sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=express" width="42" height="42" alt="Express" /><br/>
+        <sub>Express</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42" alt="MongoDB" /><br/>
+        <sub>MongoDB</sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=html" width="42" height="42" alt="HTML" /><br/>
+        <sub>HTML</sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=css" width="42" height="42" alt="CSS" /><br/>
+        <sub>CSS</sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=docker" width="42" height="42" alt="Docker" /><br/>
+        <sub>Docker</sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=git" width="42" height="42" alt="Git" /><br/>
+        <sub>Git</sub>
+      </td>
+    </tr>
+  </table>
+  <br/>
+</div>
 
 <br/>
 
----
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranav-gujar/pranav-gujar/main/assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranav-gujar/pranav-gujar/main/assets/divider-light.svg">
+    <img src="https://raw.githubusercontent.com/pranav-gujar/pranav-gujar/main/assets/divider-dark.svg" alt="divider" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+## &#x3C;The Milestones /&#x3E;
+
+<div align="center">
+  <br/>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <p>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/National-Scholar-3B82F6?style=for-the-badge&labelColor=1E293B">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/National-Scholar-1D4ED8?style=for-the-badge&labelColor=DBEAFE">
+            <img src="https://img.shields.io/badge/National-Scholar-3B82F6?style=for-the-badge&labelColor=1E293B" alt="NMMS">
+          </picture>
+        </p>
+        <p><sub>NMMS Scholarship Holder</sub></p>
+      </td>
+      <td align="center" width="33%">
+        <p>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Hackathon-Champion-10B981?style=for-the-badge&labelColor=1E293B">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Hackathon-Champion-059669?style=for-the-badge&labelColor=D1FAE5">
+            <img src="https://img.shields.io/badge/Hackathon-Champion-10B981?style=for-the-badge&labelColor=1E293B" alt="Hackathons">
+          </picture>
+        </p>
+        <p><sub>Multiple Hackathon Winner</sub></p>
+      </td>
+      <td align="center" width="33%">
+        <p>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Founder_%26_CEO-EC4899?style=for-the-badge&labelColor=1E293B">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Founder_%26_CEO-DB2777?style=for-the-badge&labelColor=FCE7F3">
+            <img src="https://img.shields.io/badge/Founder_%26_CEO-EC4899?style=for-the-badge&labelColor=1E293B" alt="Founder">
+          </picture>
+        </p>
+        <p><sub>PGT Global Network</sub></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">
+        <p>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Open_Source-Contributor-F59E0B?style=for-the-badge&labelColor=1E293B">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Open_Source-Contributor-D97706?style=for-the-badge&labelColor=FEF3C7">
+            <img src="https://img.shields.io/badge/Open_Source-Contributor-F59E0B?style=for-the-badge&labelColor=1E293B" alt="Open Source">
+          </picture>
+        </p>
+        <p><sub>Active Community Member</sub></p>
+      </td>
+      <td align="center" width="33%">
+        <p>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Author_%26_Speaker-8B5CF6?style=for-the-badge&labelColor=1E293B">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Author_%26_Speaker-7C3AED?style=for-the-badge&labelColor=EDE9FE">
+            <img src="https://img.shields.io/badge/Author_%26_Speaker-8B5CF6?style=for-the-badge&labelColor=1E293B" alt="Author">
+          </picture>
+        </p>
+        <p><sub>Published Author & Speaker</sub></p>
+      </td>
+      <td align="center" width="33%">
+        <p>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/NPTEL-Silver_Elite-EF4444?style=for-the-badge&labelColor=1E293B">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/NPTEL-Silver_Elite-DC2626?style=for-the-badge&labelColor=FEE2E2">
+            <img src="https://img.shields.io/badge/NPTEL-Silver_Elite-EF4444?style=for-the-badge&labelColor=1E293B" alt="NPTEL">
+          </picture>
+        </p>
+        <p><sub>Silver Elite Certification</sub></p>
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Impact-10,000%2B_Students_Reached-06B6D4?style=for-the-badge&logo=target&logoColor=white&labelColor=1E293B">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Impact-10,000%2B_Students_Reached-0891B2?style=for-the-badge&logo=target&logoColor=white&labelColor=CFFAFE">
+    <img src="https://img.shields.io/badge/Impact-10,000%2B_Students_Reached-06B6D4?style=for-the-badge&logo=target&logoColor=white&labelColor=1E293B" alt="Impact">
+  </picture>
+  <br/>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranav-gujar/pranav-gujar/main/assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranav-gujar/pranav-gujar/main/assets/divider-light.svg">
+    <img src="https://raw.githubusercontent.com/pranav-gujar/pranav-gujar/main/assets/divider-dark.svg" alt="divider" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+## &#x3C;The Open Source Doctrine /&#x3E;
+
+<div align="center">
+  <br/>
+  <table>
+    <tr>
+      <td>
+        <p>
+          I believe <b>great software is built in public</b>. Open source isn't just a license — it's a philosophy. It's the radical idea that transparency, collaboration, and shared ownership produce technology that no walled garden ever could.
+        </p>
+        <p>
+          I contribute to projects that matter. I mentor contributors who are starting their journey. And I maintain libraries because someone once did the same for me. The cycle of giving back is what keeps the open web alive — and I'm proud to be part of that cycle.
+        </p>
+        <p>
+          If you're building something meaningful, let's build it together.
+        </p>
+      </td>
+    </tr>
+  </table>
+  <br/>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranav-gujar/pranav-gujar/main/assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranav-gujar/pranav-gujar/main/assets/divider-light.svg">
+    <img src="https://raw.githubusercontent.com/pranav-gujar/pranav-gujar/main/assets/divider-dark.svg" alt="divider" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+## &#x3C;The Infinite Grid /&#x3E;
+
+<div align="center">
+  <br/>
+  <table>
+    <tr>
+      <td align="center">
+        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pranav-gujar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&rank_icon=github&ring_color=3B82F6" />
+      </td>
+      <td align="center">
+        <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-gujar&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" />
+      </td>
+      <td align="center">
+        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-gujar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" />
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pranav-gujar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" alt="GitHub Trophies"/>
+  <br/>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranav-gujar/pranav-gujar/main/assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranav-gujar/pranav-gujar/main/assets/divider-light.svg">
+    <img src="https://raw.githubusercontent.com/pranav-gujar/pranav-gujar/main/assets/divider-dark.svg" alt="divider" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+## &#x3C;The Constellation /&#x3E;
 
 <br/>
 
 <p align="center">
-  <img src="https://pranav-gujar.github.io/pranav-gujar/snake.svg" alt="Contribution Snake Animation" /></p>
+  <img src="https://pranav-gujar.github.io/pranav-gujar/snake.svg" alt="Contribution Snake Animation" />
+</p>
+
+<div align="center">
+  <p><i>Every dot is a day I showed up. Every streak is a promise kept.</i></p>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranav-gujar/pranav-gujar/main/assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranav-gujar/pranav-gujar/main/assets/divider-light.svg">
+    <img src="https://raw.githubusercontent.com/pranav-gujar/pranav-gujar/main/assets/divider-dark.svg" alt="divider" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+## &#x3C;The Transmission /&#x3E;
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <a href="https://github.com/pranav-gujar">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/><br/>
+          <sub>@pranav-gujar</sub>
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://linkedin.com/in/pranav-gujar">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/><br/>
+          <sub>pranav-gujar</sub>
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://pranav-gujar.com">
+          <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/><br/>
+          <sub>pranav-gujar.com</sub>
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="mailto:pranav@pgtglobal.net">
+          <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/><br/>
+          <sub>pranav@pgtglobal.net</sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+  <br/>
+</div>
+
 <br/>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=500&lines=Engineering+the+future%2C+one+commit+at+a+time.;Let's+create+something+extraordinary." />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=500&lines=Engineering+the+future%2C+one+commit+at+a+time.;Let's+create+something+extraordinary." />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=500&lines=Engineering+the+future%2C+one+commit+at+a+time.;Let's+create+something+extraordinary." alt="Footer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=500&lines=Infinite+curiosity.+Infinite+growth.;Let's+create+something+extraordinary." />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=500&lines=Infinite+curiosity.+Infinite+growth.;Let's+create+something+extraordinary." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=500&lines=Infinite+curiosity.+Infinite+growth.;Let's+create+something+extraordinary." alt="Footer" />
   </picture>
 </p>
 
 <p align="center">
-  <sub>© 2024 Pranav Gujar · Mr. Infinite ♾️</sub>
+  <sub>© Pranav Gujar · Mr. Infinite ♾️</sub>
 </p>
